@@ -1,5 +1,5 @@
 
-my Analysis Project
+My Analysis Project
 
 ## Overview
 
@@ -73,5 +73,5 @@ This project Done by Ngum_Dieudonne
 Acknowledgments
 Our Learning Coach
 
-### Notes:
+ Notes:
 -  `[https://github.com/Ngum12/Plotting_Matplotlib_Seaborn_Assignment_1]` and `[Plotting Assignment.ipynb]` 
